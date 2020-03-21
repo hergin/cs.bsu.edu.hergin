@@ -27,6 +27,7 @@
             <h3>Books</h3>
             <ul>
                 <li><a target="_blank" href="https://mitpress.mit.edu/books/software-design-decoded/">Software Design Decoded</a> by Marian Petre and Andre van der Hoek</li>
+                <li><a target="_blank" href="https://www.amazon.com/Agile-Good-Hype-Bertrand-Meyer/dp/3319051547#ace-g8881249860">Agile! The Good, the Hype and the Ugly</a> by Bertrand Meyer</li>
             </ul>
 
         </div>

@@ -9,6 +9,11 @@
 
         <p>
             <blockquote>
+            Starting any significant software project (anything beyond a couple of months and a couple of developers) without taking the time to write some basic document defining the core requirements is professional malpractice.
+                <span>Bertrand Meyer in <a href="https://www.amazon.com/Agile-Good-Hype-Bertrand-Meyer/dp/3319051547" target="_blank">Agile! The Good, the Hype and the Ugly</a></span>
+            </blockquote>
+
+            <blockquote>
                     The best way to predict the future is to invent it.
                 <span>Alan Kay</span>
             </blockquote>
