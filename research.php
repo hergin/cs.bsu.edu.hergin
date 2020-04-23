@@ -10,10 +10,10 @@
         <div>
 
             <h3>Upcoming Conferences & Meetings</h3>
-            <ul>
-                <li><a target="_blank" href="https://sigcse2020.sigcse.org/">ACM SIGCSE - Computer Science Education. March 11-14, 2020 - Portland, OR</a></li>												
-                <li><a target="_blank" href="http://www.serc.net">Spring 2020 Semiannual S<sup>2</sup>ERC Showcase. May, 2019 - </a></li>
-                <li><a target="_blank" href="http://www.modelsconference.org/">ACM/IEEE 23rd International Conference on Model Driven Engineering Languages and Systems (MODELS). 2020 - Montreal, Canada</a></li>
+            <ul>												
+                <li><a target="_blank" href="http://www.serc.net">Spring 2020 Semiannual S<sup>2</sup>ERC Showcase. May, 2019 - Muncie, IN</a></li>
+                <li><a target="_blank" href="http://www.modelsconference.org/">ACM/IEEE 23rd International Conference on Model Driven Engineering Languages and Systems (MODELS). October 18-23, 2020 - Montreal, Canada</a></li>
+                <li><a target="_blank" href="https://2020.esec-fse.org/">ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) - November 8-13, 2020 - Sacramento, CA</a></li>
                 <li><a target="_blank" href="https://2020.splashcon.org/">SPLASH 2020. November 15-20, 2020 - Chicago, IL</a></li> 
             </ul>
 
@@ -21,6 +21,13 @@
             <ul>
                 <li>Sep 2018-Aug 2019: <em>Bridging the Reverse Engineering Gap from Ada to fUML.</em> $38,000. Raytheon Company. </li>
                 <li>May 2018-May 2019: <em>Integrating Modeling to Increase Abstraction in the Code.</em> $52,200. BeulahWorks, LLC.</li>
+            </ul>
+
+            <h3>Submitted & In-Preparation</h3>
+            <ul>
+                <li>Mesut Yavuz and Huseyin Ergin. <em>Interest-Based Student Team Formation and Project Assignment: An Optimization Approach.</em> INFORMS Transactions on Education.</li>
+                <li>Huseyin Ergin and Roy M. Bell. <em>Untitled Ada to fUML Visualization Experience Paper.</em></li>
+                <li>Huseyin Ergin, Jeff Gray, Wenhua Hu, Herart Nurue. <em>Block-Based Model-Driven Engineering.</em></li>
             </ul>
 
 

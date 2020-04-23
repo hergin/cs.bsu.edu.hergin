@@ -16,6 +16,11 @@
             </ul>
         </p>
         <p>
+            <h3>Fall 2020 (tentative)</h3>
+            <ul>
+                <li>CS495 Software Engineering 1: Section <a href="#" target="_blank">1</a>, <a href="#" target="_blank">2</a> and <a href="#" target="_blank">3</a>.</li>
+            </ul>
+
             <h3>Spring 2020</h3>
             <ul>
                 <li>CS498 Software Engineering 2: Section <a href="https://bsu.instructure.com/courses/78914" target="_blank">1</a> and <a href="https://bsu.instructure.com/courses/78917" target="_blank">2</a>.</li>

@@ -30,7 +30,7 @@
         </header>
         <main class="modal__content" style="" id="modal-1-content">
           <p>
-		  Hi all! We are now transitioning to virtual-first classes as <a href="https://www.bsu.edu/news/press-center/archives/2020/3/covid-19" target="_blank">announced by the university</a>. So, you will receive emails on how to attend my classes online.
+		  Hi all! We are now transitioning to virtual-first classes as <a href="https://www.bsu.edu/news/press-center/archives/2020/3/covid-19" target="_blank">announced by the university</a>. So, you should have received emails on how to attend my classes online.
 		  <br/><br/>You can also access my virtual office via this link: <a href="https://ballstate.webex.com/meet/hergin" target="_blank">Huseyin Ergin's Virtual Office</a>. I will definitely be available in the virtual office during my regular office hours (MWF 11am-12pm, TuTh 1pm-2pm). <br/><br/>Alternatively, you can email me anytime at <a href="mailto:hergin@bsu.edu" target="_blank">hergin@bsu.edu</a> if you have questions.
           </p>
         </main>

@@ -120,6 +120,14 @@
 
                 <ul class="">
 
+                    <li>
+                        <h3>The Capstone Showcase</h3>
+                        <p><a
+                                href="capstone-showcase.php"
+                                target="_blank">The Capstone Showcase</a> is on April 23rd at 2 p.m. </p>
+                        <time>April 2020</time>
+                    </li>
+
                      <li>
                         <h3>Externship</h3>
                         <p>I am awarded with an <a
