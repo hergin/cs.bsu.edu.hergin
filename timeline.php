@@ -121,6 +121,12 @@
                 <ul class="">
 
                     <li>
+                        <h3>VSTOP</h3>
+                        <p>I am taking the responsibility of the <a href="https://www.bsu.edu/academics/centersandinstitutes/bowencenter/vstop" target="_blank">VSTOP</a> project (software aspect) as a faculty fellow in the summer to plan for the future of the software.</p>
+                        <time>May 2020</time>
+                    </li>
+
+                    <li>
                         <h3>The Capstone Showcase</h3>
                         <p><a
                                 href="capstone-showcase.php"
