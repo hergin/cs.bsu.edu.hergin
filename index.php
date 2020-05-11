@@ -33,7 +33,7 @@
 
 <script>
     document.addEventListener("DOMContentLoaded", function(){
-        MicroModal.show('modal-1'); // [1]
+        //MicroModal.show('modal-1'); // [1]
         $('#mainpic').attr("src","images/"+Math.floor(Math.random() * 8)+".jpg");
     });
 </script>
