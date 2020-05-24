@@ -33,7 +33,7 @@
             <ul>
                 <li>Mesut Yavuz and Huseyin Ergin. <em>Interest-Based Student Team Formation and Project Assignment: An Optimization Approach.</em> INFORMS Transactions on Education.</li>
                 <li>Huseyin Ergin and Roy M. Bell. <em>Transforming Ada Code to FUML Diagrams.</em> The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) Industry Papers Track</li>
-                <li>Huseyin Ergin, Wenhua Hu, Herart Nurue, Jeff Gray. <em>Block-Based Model-Driven Engineering.</em></li>
+                <li>Huseyin Ergin, Wenjun Shi, Herart Dominggus Nurue, Jeff Gray. <em>Block-Based Model-Driven Engineering.</em></li>
             </ul>
 
 
