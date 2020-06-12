@@ -116,15 +116,29 @@
 
         <div class="tlcontainer">
             <div class="timeline">
-                <h2 class="">Spring 2020</h2>
+                <h2 class="">Summer 2020</h2>
 
                 <ul class="">
+
+                    <li>
+                        <h3>S2ERC Showcase</h3>
+                        <p>I presented my project proposal of visualizing any software at <a href="https://www.serc.net/sc2020s_virtual-showcase-info/"
+                                target="_blank">S2ERC Showcase</a>.
+                        </p>
+                        <time>June 2020</time>
+                    </li>
 
                     <li>
                         <h3>VSTOP</h3>
                         <p>I am taking the responsibility of the <a href="https://www.bsu.edu/academics/centersandinstitutes/bowencenter/vstop" target="_blank">VSTOP</a> project (software aspect) as a faculty fellow in the summer to plan for the future of the software.</p>
                         <time>May 2020</time>
                     </li>
+
+                </ul>
+                
+                    <h2 class="">Spring 2020</h2>
+
+                <ul class="">
 
                     <li>
                         <h3>The Capstone Showcase</h3>

@@ -9,8 +9,7 @@
         <p>
             <h4>Current Office Hours</h4>
             <ul>
-                <li>MWF 11am - 12pm</li>
-                <li>TR 1pm - 2pm</li>
+                <li>-</li>
                 <li>I have an open door policy ;)</li>
                 <li>See virtual office information above</li>
             </ul>
