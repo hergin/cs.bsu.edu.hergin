@@ -121,6 +121,14 @@
                 <ul class="">
 
                     <li>
+                        <h3>Extenship</h3>
+                        <p>I started my externship with <a href="https://www.edusource.us"
+                                target="_blank">EduSource</a>. I am observing the company and interviewing with employees to incorporate them in my Capstone classes.
+                        </p>
+                        <time>July 2020</time>
+                    </li>
+
+                    <li>
                         <h3>S2ERC Showcase</h3>
                         <p>I presented my project proposal of visualizing any software at <a href="https://www.serc.net/sc2020s_virtual-showcase-info/"
                                 target="_blank">S2ERC Showcase</a>.
