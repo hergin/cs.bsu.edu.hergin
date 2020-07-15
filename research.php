@@ -23,19 +23,22 @@
                 <li>May 2018-May 2019: <em>Integrating Modeling to Increase Abstraction in the Code.</em> $52,200. BeulahWorks, LLC.</li>
             </ul>
 
-            <h3>In-Preparation</h3>
+            <h3>Accepted & To Be Presented</h3>
             <ul>
-                <li>Mesut Yavuz and Huseyin Ergin. <em>Untitled Traveling Governor Paper.</em></li>
-                <li>Huseyin Ergin and Mesut Yavuz. <em>Software Matters: A Status of Software Development in Operations Research.</em></li>
+                <li>Huseyin Ergin, Wenjun Shi, Herart Dominggus Nurue, Jeff Gray. <em>A Model-driven Alternative to Programming in Blocks using Rule-based Transformations.</em></li>
             </ul>
 
             <h3>Submitted</h3>
             <ul>
                 <li>Mesut Yavuz and Huseyin Ergin. <em>Interest-Based Student Team Formation and Project Assignment: An Optimization Approach.</em> INFORMS Transactions on Education.</li>
                 <li>Huseyin Ergin and Roy M. Bell. <em>Transforming Ada Code to FUML Diagrams.</em> The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) Industry Papers Track</li>
-                <li>Huseyin Ergin, Wenjun Shi, Herart Dominggus Nurue, Jeff Gray. <em>Block-Based Model-Driven Engineering.</em></li>
             </ul>
 
+            <h3>In-Preparation</h3>
+            <ul>
+                <li>Mesut Yavuz and Huseyin Ergin. <em>Untitled Traveling Governor Paper.</em></li>
+                <li>Huseyin Ergin and Mesut Yavuz. <em>Software Matters: A Status of Software Development in Operations Research.</em></li>
+            </ul>
 
             <h3>Publications</h3>
             <ul>

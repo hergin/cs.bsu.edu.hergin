@@ -121,6 +121,14 @@
                 <ul class="">
 
                     <li>
+                        <h3>MODELS Paper Accepted</h3>
+                        <p>Our paper titled <em>A Model-driven Alternative to Programming in Blocks using Rule-based Transformations</em> is accepted at <a href="https://conf.researchr.org/track/models-2020/models-2020-technical-track#Call-for-papers"
+                                target="_blank">MODELS Conference</a> New Ideas & Vision Papers Track.
+                        </p>
+                        <time>July 2020</time>
+                    </li>
+
+                    <li>
                         <h3>Extenship</h3>
                         <p>I started my externship with <a href="https://www.edusource.us"
                                 target="_blank">EduSource</a>. I am observing the company and interviewing with employees to incorporate them in my Capstone classes.
