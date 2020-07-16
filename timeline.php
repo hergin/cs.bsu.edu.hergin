@@ -121,6 +121,13 @@
                 <ul class="">
 
                     <li>
+                        <h3>SoSyM Editorial</h3>
+                        <p>We have published the <a href="https://doi.org/10.1007/s10270-020-00818-1" target="_blank">new
+                                editorial</a>.</p>
+                        <time>July 2020</time>
+                    </li>
+
+                    <li>
                         <h3>MODELS Paper Accepted</h3>
                         <p>Our paper titled <em>A Model-driven Alternative to Programming in Blocks using Rule-based Transformations</em> is accepted at <a href="https://conf.researchr.org/track/models-2020/models-2020-technical-track#Call-for-papers"
                                 target="_blank">MODELS Conference</a> New Ideas & Vision Papers Track.
