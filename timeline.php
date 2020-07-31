@@ -121,6 +121,12 @@
                 <ul class="">
 
                     <li>
+                        <h3>Project Funded</h3>
+                        <p>My project about visualizing any software is funded by the affiliates of S<sup>2</sup>ERC ($52,900).</p>
+                        <time>August 2020</time>
+                    </li>
+
+                    <li>
                         <h3>SoSyM Editorial</h3>
                         <p>We have published the <a href="https://doi.org/10.1007/s10270-020-00818-1" target="_blank">new
                                 editorial</a>.</p>
