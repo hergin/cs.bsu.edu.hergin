@@ -9,23 +9,25 @@
         <p>
             <h4>Current Office Hours</h4>
             <ul>
-                <li>-</li>
+                <li>Tuesday and Thursday @ 9am to 11am</li>
                 <li>I have an open door policy ;)</li>
                 <li>See virtual office information above</li>
             </ul>
         </p>
         <p>
-            <h3>Fall 2020 (tentative)</h3>
+            <h3>Fall 2020</h3>
             <ul>
-                <li>CS495 Software Engineering 1: Section <a href="#" target="_blank">1</a>, <a href="#" target="_blank">2</a> and <a href="#" target="_blank">3</a>.</li>
+                <li><a href="https://bsu.instructure.com/courses/97381" target="_blank">CS495 Software Engineering 1: Sections 1, 2, and 3</a></li>
+                <li><a href="https://bsu.instructure.com/courses/90821" target="_blank">CS699 Reading and Honors (Independent Study with a Graduate Student)</a></li>
+                <li><a href="https://bsu.instructure.com/courses/98300" target="_blank">CS699 Reading and Honors (Independent Study with a Graduate Student)</a></li>
             </ul>
 
             <h3>Spring 2020</h3>
             <ul>
-                <li>CS498 Software Engineering 2: Section <a href="https://bsu.instructure.com/courses/78914" target="_blank">1</a> and <a href="https://bsu.instructure.com/courses/78917" target="_blank">2</a>.</li>
-                <li><a href="https://bsu.instructure.com/courses/82873" target="_blank">CS222 Advanced Programming</a></li>
-                <li><a href="https://bsu.instructure.com/courses/93989" target="_blank">CS520 Multitier Web Architectures</a></li>
-                <li><a href="https://bsu.instructure.com/courses/85755" target="_blank">CS699 Reading and Honors</a></li>
+                <li>CS498 Software Engineering 2: Sections 1 and 2</li>
+                <li>CS222 Advanced Programming</li>
+                <li>CS520 Multitier Web Architectures</li>
+                <li>CS699 Reading and Honors (Independent Study with a Graduate Student)</li>
             </ul>
 
             <h3>Fall 2019</h3>
