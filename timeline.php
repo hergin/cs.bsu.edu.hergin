@@ -116,6 +116,25 @@
 
         <div class="tlcontainer">
             <div class="timeline">
+
+            <h2 class="">Fall 2020</h2>
+
+                <ul class="">
+
+                     <li>
+                        <h3>Software Workshop</h3>
+                        <p>I am giving a workshop about <a href="https://customsoftware.eventbrite.com/" target="_blank">custom software</a> at the Innovation Connector.</p>
+                        <time>September 2020</time>
+                    </li>
+
+                    <li>
+                        <h3>Fall 2020 Classes</h3>
+                        <p>I am teaching 3 sections of CS495 Software Engineering I this semester. I also work with two students in the CS699 Reading and Honors class for my research project.</p>
+                        <time>August 2020</time>
+                    </li>
+                
+                </ul>
+
                 <h2 class="">Summer 2020</h2>
 
                 <ul class="">
@@ -144,7 +163,7 @@
                     <li>
                         <h3>Extenship</h3>
                         <p>I started my externship with <a href="https://www.edusource.us"
-                                target="_blank">EduSource</a>. I am observing the company and interviewing with employees to incorporate them in my Capstone classes.
+                                target="_blank">EduSource</a>. I am observing the company and interviewing with employees to incorporate best practices in the industry in my Capstone classes.
                         </p>
                         <time>July 2020</time>
                     </li>
