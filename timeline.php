@@ -121,8 +121,26 @@
 
                 <ul class="">
 
+                    <li>
+                        <h3>Paper Presentation</h3>
+                        <p>I have just <a target="_blank" href="images/models-talk.jpg">presented</a> our vision paper that aims to replace the building blocks of block-based programming environments with model-driven alternatives at <a target="_blank" href="https://conf.researchr.org/home/models-2020">MODELS Conference 2020</a>.</p>
+                        <time>October 2020</time>
+                    </li>
+
+                    <li>
+                        <h3>From Graduation to Corporation</h3>
+                        <p>I moderated a talk by AccuTech Lead Architect Trey Gourley on Zoom titled <em>From Graduation to Corporation</em> for my current Capstone Students. <a target="_blank" href="https://www.youtube.com/watch?v=bcgOL_7hSZ8">Here is a recording of it.</a> (because of technical difficulties Trey had to re-record it by himself)</p>
+                        <time>September 2020</time>
+                    </li>
+
+                    <li>
+                        <h3>Industry Talk from Capstone Alumni</h3>
+                        <p>I chaired a panel by my previous year Capstone Students on Zoom for my current Capstone Students. <a target="_blank" href="https://www.youtube.com/watch?v=q90xWFPsJiQ">Here is a recording of it.</a></p>
+                        <time>September 2020</time>
+                    </li>
+
                      <li>
-                        <h3>Software Workshop</h3>
+                        <h3>Software Workshop (postponed)</h3>
                         <p>I am giving a workshop about <a href="https://customsoftware.eventbrite.com/" target="_blank">custom software</a> at the Innovation Connector.</p>
                         <time>September 2020</time>
                     </li>
