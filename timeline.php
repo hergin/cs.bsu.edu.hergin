@@ -117,13 +117,43 @@
         <div class="tlcontainer">
             <div class="timeline">
 
+            <h2 class="">Spring 2021</h2>
+
+                <ul class="">
+
+                    <li>
+                        <h3>MODELS Workshop Chair</h3>
+                        <p>I will serve as the workshop chair at <a href="https://conf.researchr.org/committee/models-2021/models-2021-organizing-committee" target="_blank">MODELS'21 (International Conference on Model Driven Engineering Systems and Languages)</a>.</p>
+                        <time>January 2021</time>
+                    </li>
+
+                    <li>
+                        <h3>ICSE Artifact Evaluation Program Committee</h3>
+                        <p>I will serve in the <a href="https://conf.researchr.org/track/icse-2021/icse-2021-Artifact-Evaluation" target="_blank">program committee of the ICSE 2021 (International Conference on Software Engineering)</a>.</p>
+                        <time>January 2021</time>
+                    </li>
+
+                    <li>
+                        <h3>Spring 2021 Classes</h3>
+                        <p>I am teaching 3 sections of CS498 Software Engineering II this semester.</p>
+                        <time>January 2021</time>
+                    </li>
+
+                </ul>
+
             <h2 class="">Fall 2020</h2>
 
                 <ul class="">
 
                     <li>
+                        <h3>Departmental Colloquium</h3>
+                        <p>I have presented my externship experience at EduSource in a departmental colloquium. If you are interested, <a target="_blank" href="https://www.youtube.com/watch?v=fu5L8npHzHU">here is a video recording of it</a>.</p>
+                        <time>November 2020</time>
+                    </li>
+
+                    <li>
                         <h3>Paper Presentation</h3>
-                        <p>I have just <a target="_blank" href="images/models-talk.jpg">presented</a> our vision paper that aims to replace the building blocks of block-based programming environments with model-driven alternatives at <a target="_blank" href="https://conf.researchr.org/home/models-2020">MODELS Conference 2020</a>.</p>
+                        <p>I have <a target="_blank" href="images/models-talk.jpg">presented</a> our vision paper that aims to replace the building blocks of block-based programming environments with model-driven alternatives at <a target="_blank" href="https://conf.researchr.org/home/models-2020">MODELS Conference 2020</a>.</p>
                         <time>October 2020</time>
                     </li>
 
