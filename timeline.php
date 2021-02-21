@@ -122,6 +122,12 @@
                 <ul class="">
 
                     <li>
+                        <h3>Jr Faculty Research Grant</h3>
+                        <p>My exploration project about the use of model-driven engineering in CS Education is funded through my university's <a href="https://www.bsu.edu/about/administrativeoffices/sponsored-projects-administration/aspire/faculty/junior-faculty-program" target="_blank">Jr Faculty Research Program</a> for the amount of $15,000.</p>
+                        <time>January 2021</time>
+                    </li>
+
+                    <li>
                         <h3>MODELS Workshop Chair</h3>
                         <p>I will serve as the workshop chair at <a href="https://conf.researchr.org/committee/models-2021/models-2021-organizing-committee" target="_blank">MODELS'21 (International Conference on Model Driven Engineering Systems and Languages)</a>.</p>
                         <time>January 2021</time>

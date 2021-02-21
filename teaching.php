@@ -9,7 +9,7 @@
         <p>
             <h4>Current Office Hours</h4>
             <ul>
-                <li>Tuesday and Thursday @ 9am to 11am</li>
+                <li>Tuesday and Thursday @ 2pm to 4pm</li>
                 <li>I have an open door policy ;)</li>
                 <li>See virtual office information above</li>
             </ul>

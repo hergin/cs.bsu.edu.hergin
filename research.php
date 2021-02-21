@@ -11,38 +11,31 @@
 
             <h3>Upcoming Conferences & Meetings</h3>
             <ul>												
-                <li><a target="_blank" href="http://www.serc.net">Spring 2020 Semiannual S<sup>2</sup>ERC Showcase. May, 2019 - Muncie, IN</a></li>
-                <li><a target="_blank" href="http://www.modelsconference.org/">ACM/IEEE 23rd International Conference on Model Driven Engineering Languages and Systems (MODELS). October 18-23, 2020 - Montreal, Canada</a></li>
-                <li><a target="_blank" href="https://2020.esec-fse.org/">ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) - November 8-13, 2020 - Sacramento, CA</a></li>
-                <li><a target="_blank" href="https://2020.splashcon.org/">SPLASH 2020. November 15-20, 2020 - Chicago, IL</a></li> 
+                <li><a target="_blank" href="http://www.serc.net">Spring 2021 Semiannual S<sup>2</sup>ERC Showcase. May, 2021</a></li>
+                <li><a target="_blank" href="http://www.modelsconference.org/">ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS). October 2021 - Japan</a></li>
             </ul>
 
             <h3>Grants</h3>
             <ul>
+                <li>May 2021-April 2022: <em>A Model-Driven Alternative to Programming in Blocks Using Rule-Based Model Transformations.</em> $15,000. Ball State University, Jr Faculty Researh Grant.</li>
                 <li>Aug 2020-Jul 2021: <em>Visualizing Any Software System Using a Template-Based Convertor.</em> $52,900. Raytheon Technologies (and others).</li>
                 <li>Sep 2018-Aug 2019: <em>Bridging the Reverse Engineering Gap from Ada to fUML.</em> $38,000. Raytheon Company.</li>
                 <li>May 2018-May 2019: <em>Integrating Modeling to Increase Abstraction in the Code.</em> $52,200. BeulahWorks, LLC.</li>
             </ul>
 
-            <h3>Accepted & To Be Presented</h3>
-            <ul>
-                <li>Huseyin Ergin, Wenjun Shi, Herart Dominggus Nurue, Jeff Gray. <em>A Model-driven Alternative to Programming in Blocks using Rule-based Transformations.</em></li>
-            </ul>
-
-            <h3>Submitted</h3>
-            <ul>
-                <li>Mesut Yavuz and Huseyin Ergin. <em>Interest-Based Student Team Formation and Project Assignment: An Optimization Approach.</em> INFORMS Transactions on Education.</li>
-                <li>Huseyin Ergin and Roy M. Bell. <em>Transforming Ada Code to FUML Diagrams.</em> The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) Industry Papers Track</li>
-            </ul>
 
             <h3>In-Preparation</h3>
             <ul>
+                <li>Mesut Yavuz and Huseyin Ergin. <em>Interest-Based Student Team Formation and Project Assignment: An Optimization Approach.</em> INFORMS Transactions on Education.</li>
                 <li>Mesut Yavuz and Huseyin Ergin. <em>Untitled Traveling Governor Paper.</em></li>
-                <li>Huseyin Ergin and Mesut Yavuz. <em>Software Matters: A Status of Software Development in Operations Research.</em></li>
+                <li>Huseyin Ergin and Roy M. Bell. <em>Transforming Ada Code to FUML Diagrams.</em> The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) Industry Papers Track</li>
+                <li>Huseyin Ergin, Mesut Yavuz and Nasir Eisty. <em>Software Matters: A Status of Software Development in Operations Research.</em></li>
             </ul>
+
 
             <h3>Publications</h3>
             <ul>
+                <li>Huseyin Ergin, Wenjun Shi, Herart Dominggus Nurue, Jeff Gray. <em>A Model-driven Alternative to Programming in Blocks using Rule-based Transformations.</em> 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems  <a target="_blank" href="research/models2021.pdf"><i class="fa fa-file-powerpoint-o"></i></a> <a target="_blank" href="https://dl.acm.org/doi/10.1145/3365438.3410959"><i class="fa fa-file-pdf-o"></i></a> <a target="_blank" href="https://www.youtube.com/watch?v=orb2BIS2u5I"><i class="fa fa-youtube"></i></a></li>
                 <li>Huseyin Ergin. <em>Instructor-formed Capstone Teams Based on Interest and Technical Experience: The Road to Success.</em> The Journal of Computing Sciences in Colleges. Volume 25, Number 5. (October 2019) <a target="_blank" href="research/ccsc2019.ppsx"><i class="fa fa-file-powerpoint-o"></i></a> <a target="_blank" href="http://ccsc.org/publications/journals/MW2019.pdf"><i class="fa fa-file-pdf-o"></i></a></li>
                 <li>Huseyin Ergin, Isaac L. Walling, Kate P. Rader, D. Joshua Dobbs. <em>A Study of Modeling Perception in a First-Time Modeling Class.</em> MODELS 2019 Conference Companion, Educators Symposium. pp. 680-689 <a target="_blank" href="research/edusymp2019.ppsx"><i class="fa fa-file-powerpoint-o"></i></a> <a target="_blank" href="https://ieeexplore.ieee.org/document/8904829"><i class="fa fa-external-link"></i></a></li>
                 <li>Mesut Yavuz and Huseyin Ergin. <em>Advanced Constraint Propagation for the Combined Car Sequencing and Level Scheduling Problem.</em> Computers & Operations Research Journal (2018) <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0305054818302028"><i class="fa fa-external-link"></i></a></li>

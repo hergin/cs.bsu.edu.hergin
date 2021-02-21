@@ -30,7 +30,7 @@
         </header>
         <main class="modal__content" style="" id="modal-1-content">
           <p>
-		  You can access my virtual office via this link: <a href="https://ballstate.webex.com/meet/hergin" target="_blank">Huseyin Ergin's Virtual Office</a>. My office hours in Fall 2020 is Tuesday and Thursday from 9am to 11am.<br/><br/>Faster way to reach me is via email anytime at <a href="mailto:hergin@bsu.edu" target="_blank">hergin@bsu.edu</a> if you have questions.
+		  You can access my virtual office via this link: <a href="https://ballstate.webex.com/meet/hergin" target="_blank">Huseyin Ergin's Virtual Office</a>. My office hours in Spring 2021 is Tuesday and Thursday from 2pm to 4pm.<br/><br/>Faster way to reach me is via email anytime at <a href="mailto:hergin@bsu.edu" target="_blank">hergin@bsu.edu</a> if you have questions.
           </p>
         </main>
         <footer class="modal__footer">
