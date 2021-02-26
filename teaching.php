@@ -15,11 +15,17 @@
             </ul>
         </p>
         <p>
+
+            <h3>Spring 2021</h3>
+            <ul>
+                <li><a href="https://bsu.instructure.com/courses/102828" target="_blank">CS498 Software Engineering 2: Sections 1, 2, and 3</a></li>
+            </ul>
+
             <h3>Fall 2020</h3>
             <ul>
-                <li><a href="https://bsu.instructure.com/courses/97381" target="_blank">CS495 Software Engineering 1: Sections 1, 2, and 3</a></li>
-                <li><a href="https://bsu.instructure.com/courses/90821" target="_blank">CS699 Reading and Honors (Independent Study with a Graduate Student)</a></li>
-                <li><a href="https://bsu.instructure.com/courses/98300" target="_blank">CS699 Reading and Honors (Independent Study with a Graduate Student)</a></li>
+                <li>CS495 Software Engineering 1: Sections 1, 2, and 3</li>
+                <li>CS699 Reading and Honors (Independent Study with a Graduate Student)</li>
+                <li>CS699 Reading and Honors (Independent Study with another Graduate Student)</li>
             </ul>
 
             <h3>Spring 2020</h3>
