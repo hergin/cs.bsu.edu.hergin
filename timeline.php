@@ -122,6 +122,14 @@
                 <ul class="">
 
                     <li>
+                        <h3>East Central Indiana Science Fair</h3>
+                        <p>I served as a judge at <a
+                                href="https://www.bsu.edu/academics/collegesanddepartments/biology/activities-opportunities/east-central-indiana-science-fair"
+                                target="_blank">East Central Indiana Science Fair</a> and graded the projects of future scientists.</p>
+                        <time>February 2021</time>
+                    </li>
+
+                    <li>
                         <h3>Jr Faculty Research Grant</h3>
                         <p>My exploration project about the use of model-driven engineering in CS Education is funded through my university's <a href="https://www.bsu.edu/about/administrativeoffices/sponsored-projects-administration/aspire/faculty/junior-faculty-program" target="_blank">Jr Faculty Research Program</a> for the amount of $15,000.</p>
                         <time>January 2021</time>
