@@ -122,6 +122,12 @@
                 <ul class="">
 
                     <li>
+                        <h3>2021 Outstanding Community Partner Award</h3>
+                        <p>My partnership with <a href="https://www.trustasc.com/" target="_blank">Accutech Systems Corporation</a> has been recognized as <a target="_blank" href="images/accutech.png">the 2021 Outstanding Community Partner Award</a> by our university 🎉</p>
+                        <time>March 2021</time>
+                    </li>
+
+                    <li>
                         <h3>East Central Indiana Science Fair</h3>
                         <p>I served as a judge at <a
                                 href="https://www.bsu.edu/academics/collegesanddepartments/biology/activities-opportunities/east-central-indiana-science-fair"
