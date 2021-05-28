@@ -117,6 +117,19 @@
         <div class="tlcontainer">
             <div class="timeline">
 
+            <h2 class="">Summer 2021</h2>
+
+                <ul class="">
+
+                    <li>
+                        <h3>MDEforALL Project</h3>
+                        <p>I have hired two undergraduate students for my ASPIRE grant project.</p>
+                        <time>May 2021</time>
+                    </li>
+
+                </ul>
+            </h2>
+
             <h2 class="">Spring 2021</h2>
 
                 <ul class="">
