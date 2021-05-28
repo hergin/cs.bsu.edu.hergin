@@ -122,6 +122,18 @@
                 <ul class="">
 
                     <li>
+                        <h3>DSM Program Committee</h3>
+                        <p>I will serve in the <a href="https://2021.splashcon.org/committee/dsm-2021-papers-program-committee" target="_blank">program committee of the DSM Workshop 2021 (Domain-Specific Modeling) at SPLASH 2021</a>.</p>
+                        <time>May 2021</time>
+                    </li>
+
+                    <li>
+                        <h3>Fireside Chats</h3>
+                        <p>As part of our Capstone Courses, I have moderated three fireside chats with people from industry: <a href="https://youtu.be/3v_M9W7Bwf4" target="_blank">Erman Pattuk (Sr. Software Engineer at Google)</a>, <a href="https://youtu.be/1McHp0UESic" target="_blank">Nurettin Dag (Director of Engineering, Stealth Mode Startup)</a>, and <a href="https://youtu.be/Sw3XtAxOQaQ" target="_blank">Emre Koc (CTO at dresden.vision)</a>.</p>
+                        <time>April 2021</time>
+                    </li>
+
+                    <li>
                         <h3>2021 Outstanding Community Partner Award</h3>
                         <p>My partnership with <a href="https://www.trustasc.com/" target="_blank">Accutech Systems Corporation</a> has been recognized as <a target="_blank" href="images/accutech.png">the 2021 Outstanding Community Partner Award</a> by our university 🎉</p>
                         <time>March 2021</time>
