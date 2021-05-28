@@ -128,6 +128,12 @@
                     </li>
 
                     <li>
+                        <h3>The 2nd Capstone Showcase</h3>
+                        <p>Our wonderful students presented their Capstone Projects in the 2nd Annual Capstone Showcase I have hosted. You can find a recording of the showcase <a href="https://www.youtube.com/watch?v=mJk1ZxcK0N4" target="_blank">here</a>.</p>
+                        <time>April 2021</time>
+                    </li>
+
+                    <li>
                         <h3>Fireside Chats</h3>
                         <p>As part of our Capstone Courses, I have moderated three fireside chats with people from industry: <a href="https://youtu.be/3v_M9W7Bwf4" target="_blank">Erman Pattuk (Sr. Software Engineer at Google)</a>, <a href="https://youtu.be/1McHp0UESic" target="_blank">Nurettin Dag (Director of Engineering, Stealth Mode Startup)</a>, and <a href="https://youtu.be/Sw3XtAxOQaQ" target="_blank">Emre Koc (CTO at dresden.vision)</a>.</p>
                         <time>April 2021</time>
