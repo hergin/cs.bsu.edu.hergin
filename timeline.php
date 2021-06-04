@@ -122,8 +122,20 @@
                 <ul class="">
 
                     <li>
+                        <h3>Immersive Learning</h3>
+                        <p>My immersive learning course proposal called <a href="images/digitizing-muncie.png" target="_blank">Digitizing Muncie: One Tech Startup at a Time</a> is accepted and funded $6,280 for Spring'22.</p>
+                        <time>June 2021</time>
+                    </li>
+
+                    <li>
                         <h3>MDEforALL Project</h3>
                         <p>I have hired two undergraduate students for my ASPIRE grant project.</p>
+                        <time>May 2021</time>
+                    </li>
+
+                    <li>
+                        <h3>DSM Program Committee</h3>
+                        <p>I will serve in the <a href="https://2021.splashcon.org/committee/dsm-2021-papers-program-committee" target="_blank">program committee of the DSM Workshop 2021 (Domain-Specific Modeling) at SPLASH 2021</a>.</p>
                         <time>May 2021</time>
                     </li>
 
@@ -133,12 +145,6 @@
             <h2 class="">Spring 2021</h2>
 
                 <ul class="">
-
-                    <li>
-                        <h3>DSM Program Committee</h3>
-                        <p>I will serve in the <a href="https://2021.splashcon.org/committee/dsm-2021-papers-program-committee" target="_blank">program committee of the DSM Workshop 2021 (Domain-Specific Modeling) at SPLASH 2021</a>.</p>
-                        <time>May 2021</time>
-                    </li>
 
                     <li>
                         <h3>The 2nd Capstone Showcase</h3>
