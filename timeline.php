@@ -122,6 +122,12 @@
                 <ul class="">
 
                     <li>
+                        <h3>Elevate Nexus</h3>
+                        <p>I will be a <a href="images/nexus.png" target="_blank">panelist at the Future of Entrepreneurship Education</a> session of <a href="https://www.elevateventures.com/entrepreneurs/investment-funding/elevate-nexus/elevate-nexus-conference" target="_blank">the Elevate Nexus Conference</a>.</p>
+                        <time>July 2021</time>
+                    </li>
+
+                    <li>
                         <h3>Immersive Learning</h3>
                         <p>My immersive learning course proposal called <a href="images/digitizing-muncie.png" target="_blank">Digitizing Muncie: One Tech Startup at a Time</a> is accepted and funded $6,280 for Spring'22.</p>
                         <time>June 2021</time>
