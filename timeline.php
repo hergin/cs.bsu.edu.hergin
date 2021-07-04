@@ -122,6 +122,12 @@
                 <ul class="">
 
                     <li>
+                        <h3>Immersive Learning Training</h3>
+                        <p>I got <a href="docs/2021-immersive-learning-cert.png" target="_blank">my immersive learning certification</a> after a week of training.</p>
+                        <time>July 2021</time>
+                    </li>
+
+                    <li>
                         <h3>Elevate Nexus</h3>
                         <p>I will be a <a href="images/nexus.png" target="_blank">panelist at the Future of Entrepreneurship Education</a> session of <a href="https://www.elevateventures.com/entrepreneurs/investment-funding/elevate-nexus/elevate-nexus-conference" target="_blank">the Elevate Nexus Conference</a>.</p>
                         <time>July 2021</time>
