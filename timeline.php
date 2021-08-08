@@ -122,6 +122,18 @@
                 <ul class="">
 
                     <li>
+                        <h3>Paper Talks</h3>
+                        <p>Erman Pattuk (Sr. Software Engineer at Google) and I have talked about <a href="https://dl.acm.org/doi/10.1145/3365438.3410959" target="_blank">one of my papers</a> on <a href="https://www.youtube.com/watch?v=Ldn_NN7sL2Q" target="_blank">Youtube live</a> (in Turkish).</p>
+                        <time>August 2021</time>
+                    </li>
+
+                    <li>
+                        <h3>2021 Outstanding Community Partner Award</h3>
+                        <p>President Mearns and I have <a href="images/accutech-present.jpg" target="_blank">presented the award to Accutech</a>.</p>
+                        <time>August 2021</time>
+                    </li>
+
+                    <li>
                         <h3>Immersive Learning Training</h3>
                         <p>I got <a href="docs/2021-immersive-learning-cert.png" target="_blank">my immersive learning certification</a> after a week of training.</p>
                         <time>July 2021</time>
