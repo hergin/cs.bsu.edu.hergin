@@ -129,8 +129,14 @@
 
                     <li>
                         <h3>2021 Outstanding Community Partner Award</h3>
-                        <p>President Mearns and I have <a href="images/accutech-present.jpg" target="_blank">presented the award to Accutech</a>.</p>
+                        <p>President Mearns and I have <a href="images/accutech-present.jpg" target="_blank">presented the award to Accutech</a>. The event is featured on <a href="https://www.bsu.edu/news/press-center/archives/2021/08/accutech-honored-as-2021-outstanding-community-partner" target="_blank">BSU News</a> and <a href="http://www.munciejournal.com/2021/08/accutech-honored-as-2021-ball-state-university-outstanding-community-partner/" target="_blank">Muncie Journal</a> as well.</p>
                         <time>August 2021</time>
+                    </li>
+
+                    <li>
+                        <h3>Startup Weekend 3.0</h3>
+                        <p>I am in the organization committee of the <a href="https://event.techstars.com/event/1d7H7nQEdJ" target="_blank">Startup Weekend Muncie 3.0</a>.</p>
+                        <time>July 2021</time>
                     </li>
 
                     <li>
