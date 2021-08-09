@@ -9,16 +9,21 @@
         <p>
             <h4>Current Office Hours</h4>
             <ul>
-                <li>Tuesday and Thursday @ 2pm to 4pm</li>
+                <li>Tuesday and Thursday @ 9am to 11am</li>
                 <li>I have an open door policy ;)</li>
                 <li>See virtual office information above</li>
             </ul>
         </p>
         <p>
 
+            <h3>Fall 2021</h3>
+            <ul>
+                <li><a href="https://bsu.instructure.com/courses/115341" target="_blank">CS495 Software Engineering 1: Section 2</a></li>
+            </ul>
+
             <h3>Spring 2021</h3>
             <ul>
-                <li><a href="https://bsu.instructure.com/courses/102828" target="_blank">CS498 Software Engineering 2: Sections 1, 2, and 3</a></li>
+                <li>CS498 Software Engineering 2: Sections 1, 2, and 3</li>
             </ul>
 
             <h3>Fall 2020</h3>
