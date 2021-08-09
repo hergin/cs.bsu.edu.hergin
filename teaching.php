@@ -11,7 +11,7 @@
             <ul>
                 <li>Tuesday and Thursday @ 9am to 11am</li>
                 <li>I have an open door policy ;)</li>
-                <li>See virtual office information above</li>
+                <li>My office is in Robert Bell Building room 374.</li>
             </ul>
         </p>
         <p>
