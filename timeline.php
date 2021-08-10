@@ -129,7 +129,7 @@
 
                     <li>
                         <h3>2021 Outstanding Community Partner Award</h3>
-                        <p>President Mearns and I have <a href="images/accutech-present.jpg" target="_blank">presented the award to Accutech</a>. The event is featured on <a href="https://www.bsu.edu/news/press-center/archives/2021/08/accutech-honored-as-2021-outstanding-community-partner" target="_blank">BSU News</a> and <a href="http://www.munciejournal.com/2021/08/accutech-honored-as-2021-ball-state-university-outstanding-community-partner/" target="_blank">Muncie Journal</a> as well.</p>
+                        <p>President Mearns and I have <a href="images/accutech-present.jpg" target="_blank">presented the award to Accutech</a>. The event is featured on <a href="https://www.bsu.edu/news/press-center/archives/2021/08/accutech-honored-as-2021-outstanding-community-partner" target="_blank">BSU News</a>, <a href="http://www.munciejournal.com/2021/08/accutech-honored-as-2021-ball-state-university-outstanding-community-partner/" target="_blank">Muncie Journal</a>, and  <a href="https://www.thestarpress.com/story/life/2021/08/10/accutech-honored-2021-ball-state-outstanding-community-partner/5537674001/" target="_blank">Star Press</a>.</p>
                         <time>August 2021</time>
                     </li>
 
