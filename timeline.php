@@ -718,7 +718,7 @@
                     <li>
                         <h3>Project Provider</h3>
                         <p>Our main project provider for Fall 2018 Software Engineering class will
-                            be <a href="http://www.2catscafe.com/" target="_blank">Two Cats Cafe</a>
+                            be Two Cats Cafe
                             in
                             Muncie.</p>
                         <time>June 2018</time>
