@@ -17,6 +17,7 @@
 
             <h3>Grants</h3>
             <ul>
+                <li>Spring'22: <em>Elevate Higher Ed Grant.</em> $50,000. Elevate Ventures. (Full support by this grant received by Entrepreneurship Center of BSU).</li>
                 <li>Spring'22: <em>Digitizing Muncie: One Tech Startup at a Time (Immersive Learning Course).</em> $6,280. Ball State University, Office of Immersive Learning.</li>
                 <li>May 2021-April 2022: <em>A Model-Driven Alternative to Programming in Blocks Using Rule-Based Model Transformations.</em> $15,000. Ball State University, Jr Faculty Research Grant.</li>
                 <li>Aug 2020-Jul 2021: <em>Visualizing Any Software System Using a Template-Based Convertor.</em> $52,900. Raytheon Technologies (and others).</li>

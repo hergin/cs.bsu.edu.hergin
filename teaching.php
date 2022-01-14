@@ -9,16 +9,23 @@
         <p>
             <h4>Current Office Hours</h4>
             <ul>
-                <li>Tuesday and Thursday @ 9am to 11am</li>
+                <li>Wednesday @ 11am to 1pm</li>
                 <li>I have an open door policy ;)</li>
                 <li>My office is in Robert Bell Building room 374.</li>
             </ul>
         </p>
         <p>
 
+            <h3>Spring 2022</h3>
+            <ul>
+                <li>CS498 Software Engineering 2: Section 2</li>
+                <li>CS490 Digitizing Muncie: One Tech-startup At A Time</li>
+                <li>DSCI689 Capstone in Data Science</li>
+            </ul>
+
             <h3>Fall 2021</h3>
             <ul>
-                <li><a href="https://bsu.instructure.com/courses/115341" target="_blank">CS495 Software Engineering 1: Section 2</a></li>
+                <li>CS495 Software Engineering 1: Section 2</li>
             </ul>
 
             <h3>Spring 2021</h3>

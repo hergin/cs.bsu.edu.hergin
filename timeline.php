@@ -117,6 +117,53 @@
         <div class="tlcontainer">
             <div class="timeline">
 
+            <h2 class="">Spring 2022</h2>
+
+                <ul class="">
+
+                    <li>
+                        <h3>Spring 2022 Classes</h3>
+                        <p>I am teaching 1 section of CS498 Software Engineering II, my immersive learning course called Digitizing Muncie and DSCI 689 Capstone in Data Science course this semester.</p>
+                        <time>August 2021</time>
+                    </li>
+
+                </ul>
+
+            <h2 class="">Fall 2021</h2>
+
+                <ul class="">
+
+                    <li>
+                        <h3>CS&H Blog Post</h3>
+                        <p>My community outreach efforts are features in a <a href="https://blogs.bsu.edu/csh/2021/10/12/possibility-through-partnership-computer-science-in-the-muncie-community/" target="_blank">blogpost in the College of Sciences and Humanities page</a>.</p>
+                        <time>October 2021</time>
+                    </li>
+
+                    <li>
+                        <h3>Capstone Alumni Panel</h3>
+                        <p>I organized <a href="https://commcenter.bsu.edu/message/computer-science-capstone-alumni-panel-friday-17th-at-3-00-pm" target="_blank">a panel of Capstone alumni</a> for our students.</p>
+                        <time>September 2021</time>
+                    </li>
+
+                    <li>
+                        <h3>Digitizing Muncie - Elevate Higher Ed Grant</h3>
+                        <p>The immersive learning course I will teach in Spring got supported by the ENT Center and the <a href="https://eda.gov/success-stories/innovation-entrepreneurship/stories/elevate-ventures.htm" target="_blank">Elevate Higher Ed Grant</a> worth of $50,000 along with my colleague Krystal Geyer. <a href="https://www.ballstatedailynews.com/article/2021/10/news-ball-state-awarded-50000-to-create-a-new-tech-based-entrepreneurship-course" target="_blank">BSU Daily News Article</a>.</p>
+                        <time>September 2021</time>
+                    </li>
+
+                    <li>
+                        <h3>Fall 2021 Classes</h3>
+                        <p>I am teaching 1 section of CS495 Software Engineering I this semester.</p>
+                        <time>August 2021</time>
+                    </li>
+
+                    <li>
+                        <h3>Elevate Nexus</h3>
+                        <p>I was a panelist at the Future of Entrepreneurship Education</a> session of the Elevate Nexus Conference. <a href="images/elevate-nexus.jpg" target="_blank">Picture 1</a>, <a href="images/elevate-nexus2.jpg" target="_blank">picture 2</a>.</p>
+                        <time>August 2021</time>
+                    </li>
+                </ul>
+
             <h2 class="">Summer 2021</h2>
 
                 <ul class="">
