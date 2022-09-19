@@ -18,7 +18,7 @@
 
             <h3>Fall 2022</h3>
             <ul>
-                <li>CS498 Software Engineering 1: Sections 1, 2, and 3</li>
+                <li>CS495 Software Engineering 1: Sections 1, 2, and 3</li>
             </ul>
 
             <h3>Spring 2022</h3>
