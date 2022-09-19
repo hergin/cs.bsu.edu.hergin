@@ -9,12 +9,17 @@
         <p>
             <h4>Current Office Hours</h4>
             <ul>
-                <li>Wednesday @ 11am to 1pm</li>
+                <li>Wednesday @ 10am to 1pm</li>
                 <li>I have an open door policy ;)</li>
                 <li>My office is in Robert Bell Building room 374.</li>
             </ul>
         </p>
         <p>
+
+            <h3>Fall 2022</h3>
+            <ul>
+                <li>CS498 Software Engineering 1: Sections 1, 2, and 3</li>
+            </ul>
 
             <h3>Spring 2022</h3>
             <ul>
